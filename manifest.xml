@@ -1,0 +1,16 @@
+<package>
+  <description brief="maxon_epos_driver">
+
+     maxon_epos_driver
+
+  </description>
+  <author>pascal</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/maxon_epos_driver</url>
+  <depend package="roscpp"/>
+  <depend package="hyraii_msgs"/>
+
+</package>
+
+
